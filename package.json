@@ -1,17 +1,19 @@
 {
   "name": "ps-react-jmoguelruiz-build-template",
-  "version": "0.1.1",
-  "main" : "./lib/index.js",
-  "private" : true,
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "private": true,
   "engines": {
-    "node" : ">=4.0.0"
+    "node": ">=4.0.0"
   },
   "author": {
-    "name" : "Jose Moguel",
-    "email" : "jmoguelruiz@gmail.com"
+    "name": "Jose Moguel",
+    "email": "jmoguelruiz@gmail.com"
   },
-  "files" : ["lib"],
-  "keywords" : [
+  "files": [
+    "lib"
+  ],
+  "keywords": [
     "components",
     "react",
     "react-component",
