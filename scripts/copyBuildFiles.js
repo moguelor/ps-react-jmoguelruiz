@@ -56,7 +56,7 @@ function createPackageFile() {
     } = packageData;
 
     const minimalPackage = {
-      name: 'ps-react',
+      name: 'ps-react-jmoguelruiz',
       author,
       version,
       description,
